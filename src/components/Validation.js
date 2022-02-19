@@ -2,7 +2,8 @@ import React from 'react'
 
 function Validation() {
   return (
-    <div>Validation</div>
+    <div>Validation
+    <button>click</button></div>
   )
 }
 
