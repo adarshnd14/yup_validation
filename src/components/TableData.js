@@ -2,7 +2,10 @@ import React from 'react'
 
 function TableData() {
   return (
-    <div>TableData</div>
+    <div>TableData
+      <h1>ok</h1>
+    </div>
+
   )
 }
 
